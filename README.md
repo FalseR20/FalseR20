@@ -1,11 +1,14 @@
 # Hi there 👋
 
-My name is Mikhail Krupenkov. I am Python 🐍❤️ backend developer.
+**My name is Mikhail Krupenkov. I am 🐍Python backend developer.**
+
+[![Location](https://img.shields.io/badge/Belarus-Brest-2CA5E0?style=for-the-badge)](https://goo.gl/maps/bK5GY7QkFZRf9yvr5)
+[![University](https://img.shields.io/badge/BSTU-blue?style=for-the-badge)](https://www.bstu.by)
 
 ## Links for work
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falser.mk.work@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falser/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falser)
 
 ## Links not for work
 
