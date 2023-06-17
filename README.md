@@ -2,7 +2,7 @@
 
 **My name is Mikhail Krupenkov. I am 🐍Python backend developer.**
 
-[![Location](https://img.shields.io/badge/Belarus-Brest-2CA5E0?style=for-the-badge)](https://goo.gl/maps/bK5GY7QkFZRf9yvr5)
+[![Location](https://img.shields.io/badge/Belarus,%20Brest-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://goo.gl/maps/bK5GY7QkFZRf9yvr5)
 [![University](https://img.shields.io/badge/BSTU-blue?style=for-the-badge)](https://www.bstu.by)
 
 ## Links for work
